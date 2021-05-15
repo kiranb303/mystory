@@ -2,3 +2,4 @@
 2.princess
 3. king
 4.monsters
+5.fairy
